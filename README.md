@@ -15,3 +15,4 @@ accuracy: 0.8545333333333334
 
 4.alpha=1.0 gives accuracy: 0.8545333333333334
  
+**5. Deep Neural Network with LSTM gives 84.24 % accuracy**
