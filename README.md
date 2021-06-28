@@ -13,5 +13,5 @@ accuracy: 0.8436666666666667
 
 accuracy: 0.8545333333333334
 
-4.alpha=1. gives accuracy: 0.8545333333333334**
+4.alpha=1.0 gives accuracy: 0.8545333333333334
  
