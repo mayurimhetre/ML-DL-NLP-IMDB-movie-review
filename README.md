@@ -49,14 +49,10 @@ The project follows these main steps:
    - TF-IDF
    - Word Embeddings (optional)
 4. **Model Building**
-   - Traditional ML models (Naive Bayes, Logistic Regression, SVM)
-   - Deep Learning models (LSTM, CNN) *(optional)*
+   - Traditional ML models (Random forest, Multinomial NB)
+   - Deep Learning models (LSTM)
 5. **Model Evaluation**
    - Accuracy
-   - Precision
-   - Recall
-   - F1-score
-
 ---
 
 ## Results
@@ -67,12 +63,12 @@ accuracy: 0.8432
 
 **2.Random forest classifier:**
 
-accuracy: 0.8436666666666667
+accuracy: 0.84
 
 **3. MNB with TFIDF :**
 
-accuracy: 0.8545333333333334
+accuracy: 0.85
 
-4.alpha=1.0 gives accuracy: 0.8545333333333334
+4.alpha=1.0 gives accuracy: 0.85
  
 **5. Deep Neural Network with LSTM gives 84.24 % accuracy**
